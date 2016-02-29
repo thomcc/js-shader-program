@@ -1,6 +1,6 @@
 {
   "name": "shader-program",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Shader program abstraction",
   "main": "shader-program.js",
   "scripts": {
@@ -11,5 +11,9 @@
     "shader"
   ],
   "author": "Thom Chiovoloni",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thomcc/js-shader-program.git"
+  }
 }
